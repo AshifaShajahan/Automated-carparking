@@ -45,7 +45,8 @@ Design and implement an automated car parking system using Arduino and IR sensor
 This project's documentation provides a comprehensive guide to setting up and operating the Automated Car Parking System. It includes hardware setup, software requirements, system design, and troubleshooting sections to ensure easy and efficient use of the system.
 
 ## Video documentation of project
-
+https://drive.google.com/drive/folders/1NgrQLCcQsuxFlBpYyO0jvJc9wWMs7SbN
+we dont have the proper cideo,but the model is given in the video.
 
 # Project Collaborators
 We collaborated on this Automated Car Parking System project, sharing responsibilities and working together to design, develop, and test the system.
